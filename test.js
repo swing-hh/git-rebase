@@ -9,4 +9,4 @@ function setName(name){
 }
 
 var myName = getName();
-setName('yaojintao');
+setName('yaojintao1');
