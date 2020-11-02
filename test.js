@@ -9,8 +9,5 @@ function setName(name){
 }
 
 var myName = getName();
-<<<<<<< HEAD
 var nameStr =  'my name ' + myName;
-=======
 setName('yaojintao1');
->>>>>>> B
