@@ -16,3 +16,4 @@ setName('yaojintao1');
 var a = 100;
 var c = 2;
 var b = 1;
+var d = 3;
