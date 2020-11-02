@@ -11,3 +11,6 @@ function setName(name){
 var myName = getName();
 var nameStr =  'my name ' + myName;
 setName('yaojintao1');
+
+var m = 1000;
+var n = m + 10;
