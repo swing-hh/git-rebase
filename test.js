@@ -14,4 +14,3 @@ setName('yaojintao1');
 
 
 var a = 100;
-var b = 1;
