@@ -1,4 +1,4 @@
-var name = 'yaobai';
+var name = 'yaobai1';
 
 function getName(){
   return name;
