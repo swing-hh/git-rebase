@@ -19,3 +19,4 @@ var b = a + 100;
 var c = 100;
 
 var d = 1;
+var e = 2;
