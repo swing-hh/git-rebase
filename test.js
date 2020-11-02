@@ -17,3 +17,5 @@ var a = 100;
 var b = a + 100;
 var m = 1000;
 var n = m + 10;
+
+var c = 10000;
