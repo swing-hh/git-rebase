@@ -5,3 +5,4 @@ function getName(){
 }
 
 var myName = getName();
+var nameStr =  'my name ' + myName;
