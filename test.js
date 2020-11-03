@@ -22,3 +22,6 @@ var e = 4;
 
 
 var bb = 2;
+
+
+var mmm = 'mmm';
