@@ -27,3 +27,4 @@ var bb = 2;
 var mmm = 'mmm';
 
 var aaa = 'aaa';
+var lala = 'lala';
