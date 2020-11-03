@@ -13,3 +13,4 @@ var nameStr =  'my name ' + myName;
 setName('yaojintao1');
 
 
+var bug = '111';
