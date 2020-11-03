@@ -14,3 +14,4 @@ setName('yaojintao1');
 
 
 var aa = '111';
+var aaa = aa + '111';
