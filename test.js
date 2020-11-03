@@ -15,3 +15,7 @@ setName('yaojintao1');
 
 var bug = '111';
 var d = 4;
+
+var a = 1;
+var b = 2;
+var c = 3;
