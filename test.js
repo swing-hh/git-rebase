@@ -25,3 +25,4 @@ var bb = 2;
 
 
 var mmm = 'mmm';
+var XXX = 'XXX';
