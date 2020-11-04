@@ -23,3 +23,5 @@ var c = 3;
 
 var aa =111;
 var aaa = '111'
+
+var cc = 11;
